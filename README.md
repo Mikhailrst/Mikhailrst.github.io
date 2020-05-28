@@ -4,4 +4,4 @@
 Мои домашние задания
 
 
-[Урок 12](https://mikhailrst.github.io/ "Описание")
+[Урок 12](https://mikhailrst.github.io/ "Описание") - работа с репозиторием на github
