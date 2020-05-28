@@ -1,0 +1,20 @@
+.font(@fz: 30px) {
+	font-size: @fz;
+	text-transform: uppercase;
+	line-height: 1;
+}
+
+@background-color: #333;
+
+.header {
+	.font();
+}
+
+.section-header {
+	.font();
+	background-color: @background-color;
+}
+
+span {
+	.font();
+}

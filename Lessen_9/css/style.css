@@ -1,0 +1,77 @@
+/*блок с заголовками*/
+.zagolovok {
+	margin-top: 120px;
+	margin-bottom: 90px;
+	line-height: 1.5;
+}
+.video {
+	margin-bottom: 50px;
+}
+/* первый заголовок*/
+span {
+	font-size: 24px;
+	color: #7d7d7d;
+	/*делаем блочным что бы выталкнуть второй текст*/
+	display: block;
+}
+/*второй заголовок*/
+strong {
+	font-size: 24px;
+	color: #7d7d7d;
+	text-transform: uppercase;
+}
+/*поле для ввода*/
+.pole {
+	border: 5px solid #472cc3;
+	padding: 10px 20px;
+}
+.pole p {
+	font-size: 20px;
+	color: #333333;
+	text-align: center;
+	font-weight: 900;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.pole input {
+	margin-bottom: 12px;
+}
+.pole button {
+	margin-bottom: 30px;
+}
+.zagolovokdva {
+	font-size: 24px;
+	text-transform: uppercase;
+	font-weight: 900;
+	color: #7d7d7d;
+	text-align: center;
+	margin-top: 150px;
+	margin-bottom: 80px;
+}
+.kartinki {
+	text-align: center;
+	height: 160px;
+	margin-bottom: 20px;
+}
+.kartinki p {
+	margin-top: 30px;
+	font-size: 16px;
+	color: #333333;
+	font-weight: 900;
+
+}
+.btntri {
+width: 300px;
+margin-top: 100px;
+}
+.zagolovoktri p {
+	font-size: 24px;
+	color: #333333;
+	font-weight: 900;
+	text-align: center;
+	margin-top: 100px;
+margin-bottom: 70px;}
+.klient {
+	margin-bottom: 30px;
+	text-align: center;
+}
