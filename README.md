@@ -19,3 +19,6 @@
 
 [Урок 17](https://mikhailrst.github.io/Lessen_17/ "Описание") - Практика.Верстка шапки сайта
 
+
+[Урок 18](https://mikhailrst.github.io/Lessen_18/ "Описание") - Подключение шрифтов
+
