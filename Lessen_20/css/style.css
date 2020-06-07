@@ -1,0 +1,38 @@
+img {
+    height: 100%px;
+    width: 100%;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top
+}
+.container {
+    margin-top: 50px;
+  
+}
+.btn-odin {
+    margin-top: 30px;
+    margin-right: 10px;
+border: none;
+font-size: 14px;
+font-weight: 700;
+color: white;
+background: rgb(64,199,129);
+border-radius: 4px;
+height: 40px;
+width: 100px;
+box-shadow: 0 -3px rgb(53,167,110) inset;
+ 
+}
+.btn-dva {
+    border-style: solid none;
+        display: inline-block;
+ color: white;
+ padding: .5em 2em;
+ border: none;
+ border-width: 2px 0;
+ border-style: solid none;
+ border-color: #FDBE33 #000 #D77206;
+ border-radius: 6px;
+  background: linear-gradient(#F3AE0F, #E38916) #E38916;
+
+}
