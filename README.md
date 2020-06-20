@@ -32,3 +32,5 @@
 [Урок 21](https://mikhailrst.github.io/Lessen_21/ "Описание")- Эффекты при наведении и адаптив первого экрана
 
 
+[Урок 22](https://mikhailrst.github.io/Lessen_22/index.html "Описание")- Слайдеры на сайте
+
