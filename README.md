@@ -34,3 +34,6 @@
 
 [Урок 22](https://mikhailrst.github.io/Lessen_22/index.html "Описание")- Слайдеры на сайте
 
+
+[Урок 23](https://mikhailrst.github.io/Lessen_23/index.html "Описание")- Верстка блока с преимуществами. Слайдер.
+
