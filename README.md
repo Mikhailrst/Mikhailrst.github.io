@@ -37,3 +37,7 @@
 
 [Урок 23](https://mikhailrst.github.io/Lessen_23/index.html "Описание")- Верстка блока с преимуществами. Слайдер.
 
+
+[Урок 24](https://mikhailrst.github.io/Lessen_24/index.html "Описание")- Всплывающие окна
+
+
