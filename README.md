@@ -41,3 +41,7 @@
 [Урок 24](https://mikhailrst.github.io/Lessen_24/index.html "Описание")- Всплывающие окна
 
 
+[Урок 25](https://mikhailrst.github.io/Lessen_25/ "Описание")- Верстка всплывающих окон на сайте
+
+
+
