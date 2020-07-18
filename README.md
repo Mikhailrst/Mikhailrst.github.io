@@ -44,4 +44,6 @@
 [Урок 25](https://mikhailrst.github.io/Lessen_25/ "Описание")- Верстка всплывающих окон на сайте
 
 
+[Урок 26](https://mikhailrst.github.io/index.html "Описание")- табы и аккардеон на сайте
+
 
