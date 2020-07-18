@@ -1,0 +1,28 @@
+h1 {
+	font-size: 36px;
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #0bbaf0;
+	text-align: center;
+	margin-top: 82px;
+	margin-bottom: 23px;
+}
+.zagolovok {
+	font-size: 24px;
+	text-transform: uppercase;
+	margin-bottom: 55px;
+	color: #0bbaf0;
+	text-align: center;
+}
+.panel-group {
+	
+	color: #535353;
+}
+.panel-title {
+	color: #535353;
+
+}
+img {
+	position: absolute;
+
+}
