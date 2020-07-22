@@ -1,0 +1,61 @@
+/* блок где заголовок */
+.header {
+	/* размер букв*/
+	font-size: 20px;
+	/*высота строки*/
+	line-height: 1.5;
+	/*отступ верх низ и по краям*/
+	margin: 60px auto;
+
+}
+.header span {
+	/* делаем блочным*/
+	display: block;
+}
+/*секция*/
+.section {
+	padding: 30px 0;
+}
+/*весь блок с полем для ввода*/
+.form {
+	border: 5px solid #2727d9;
+	/*внутренний отступ*/
+	padding: 35px 20px;
+}
+/*отступы для инпутов*/
+.form input {
+	/*отступ снизу*/
+	margin-bottom: 12px;
+}
+/*блок где находится поле для ввода*/
+.form-header,.section-header {
+	/*отступ снизу*/
+	margin-bottom: 20px;
+	/*размер текста*/
+	font-size: 20px;
+	/*жирность текста*/
+	font-weight: 900;
+}
+/*кнопка*/
+.form-btn {
+	/*цвет*/
+	background-color: #2727d9;
+	/* отступ верх,низ и по краям*/
+	margin: 14px auto;
+}
+/*блок с приемуществами*/
+.features {
+	/*отступ сверху*/
+	margin: 60px auto;
+}
+.features p {
+	margin-top: 20px;
+}
+/*видео*/
+.video {
+	margin-bottom: 30px;
+}
+/*бокс с картинками*/
+.feature-box {
+	height: 160px;
+}
