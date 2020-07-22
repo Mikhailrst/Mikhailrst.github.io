@@ -47,8 +47,8 @@
 [Урок 26](https://mikhailrst.github.io/index.html "Описание")- табы и аккардеон на сайте
 
 
-[Урок 27](https://mikhailrst.github.io/Lessen26,2/ "Описание")- табы и аккардеон на сайте
+[Урок 26/2](https://mikhailrst.github.io/Lessen26,2/ "Описание")- табы и аккардеон на сайте
 
 
-
+[Урок 27](https://mikhailrst.github.io/Lessen_27/index.html "Описание")- Верстка блока с ценами
 
