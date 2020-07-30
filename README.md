@@ -52,3 +52,6 @@
 
 [Урок 27](https://mikhailrst.github.io/Lessen_27/index.html "Описание")- Верстка блока с ценами
 
+
+[Урок 29](https://mikhailrst.github.io/Lessen_29/ "Описание")- Верстка блока с отзывами
+
