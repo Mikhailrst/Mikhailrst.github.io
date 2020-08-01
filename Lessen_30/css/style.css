@@ -1,0 +1,23 @@
+/* для всех элементов*/
+* {
+	box-sizing: border-box;
+}
+body {
+	/*сбрасываем отступы*/
+	margin: 0;
+}
+.section {
+	min-height: 100vh;
+	text-align: center;
+	width: 100%;
+	display: table;
+
+}
+/* обвертка*/
+.wrap-block {
+	display: table-cell;
+	/*текст в середине*/
+	vertical-align: middle;
+	/*цвет текста*/
+	color: #fff;
+}
