@@ -55,3 +55,6 @@
 
 [Урок 29](https://mikhailrst.github.io/Lessen_29/ "Описание")- Верстка блока с отзывами
 
+
+[Урок 30](https://mikhailrst.github.io/Lessen_30/index.html "Описание")- Видео-фон на сайте
+
