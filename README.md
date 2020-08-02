@@ -58,3 +58,7 @@
 
 [Урок 30](https://mikhailrst.github.io/Lessen_30/index.html "Описание")- Видео-фон на сайте
 
+
+[Урок 31](https://mikhailrst.github.io/Lessen_31/ "Описание")- Доверстали блок с отзывами
+
+
